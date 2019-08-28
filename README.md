@@ -1,4 +1,4 @@
 # Hopper_puzzle
-Puzzle challenge for Data Scientist positon at Hopper.
+Puzzle challenge.
 
 Contact: stellahkim93@gmail.com
